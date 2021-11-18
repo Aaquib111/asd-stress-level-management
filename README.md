@@ -8,6 +8,10 @@ The number of students requiring special education has been increasing for the p
 
 This project aims to use fitness bands, combined with an app and an AI that can detect periods of stress and alert caretakers, who can use patterns of stress to identify potential causes of it. The AI was found to be 98% accurate after tests with regular-education and special-education students.
 
+## Infographic Describing the Project
+![MIT PDF-FINAL-1](https://user-images.githubusercontent.com/47124521/142470686-132fb792-58bc-40ab-a315-b79452dd6f79.png)
+![MIT PDF-FINAL-2](https://user-images.githubusercontent.com/47124521/142470702-c507743b-4da6-49d1-aa0c-7e353d017c9c.png)
+
 ### How to use
 This project is a Xamarin app, so it is available to download and run on a PC. 
 - Clone this repo and open with editor of your choice (Visual Studio Recommended)
