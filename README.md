@@ -22,9 +22,7 @@ This project is a Xamarin app, so it is available to download and run on a PC.
 First of all, I love the enthusiasm! Here is a paper I wrote on this project, check it out! https://docs.google.com/document/d/1wW_hYSPY9jHtG4-tNGKYjuJAtgz5Ft9YQaNBvjQAYgU/edit?usp=sharing
 
 # What's in store in the future
-- Adding the XGBoost AI as a part of the app itself, using a C# wrapper (link: https://github.com/PicNet/XGBoost.Net)
 - Creating a web-application using Django to enable caretakers to have a single website where they can access data of all their students
-- Enabling the use of *any* fitness band with the application for ultimate accessibility
 - iOS Support 
 
 # Credits
